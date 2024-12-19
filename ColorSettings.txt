@@ -1,0 +1,3 @@
+
+"Color Settings fail. "
+"Some text for this file"
