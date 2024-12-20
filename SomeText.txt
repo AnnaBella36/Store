@@ -1,3 +1,7 @@
 "Some text for this file"
 "Command Push. "
+<<<<<<< Updated upstream
 "Max decided changed this file"
+=======
+"Local changed without Max"
+>>>>>>> Stashed changes
